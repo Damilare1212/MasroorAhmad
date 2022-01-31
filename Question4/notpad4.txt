@@ -1,0 +1,14 @@
+ Exception:
+this is a process whic terminate or stops a program when running.
+
+ExceptionHandling:
+this is a process of stoping an exception from stoping a program from runing.
+
+Exception are mostly used when the program is not trusted completely. there may be exception or there may be no exception
+Exception are also used when the programmer is 100% sure that there will be a process that will terminate the program
+along the line.
+
+
+Exception are catched by wrapping the whole code in a try block. that is if there is any exception or if any exception occur
+and then a catch bloock at the to catch the incoming exception so as to avoid the program from breaking. then the measage 
+will be display in the catch block. and it is also possible to inherit Exception from a base class Exception.
